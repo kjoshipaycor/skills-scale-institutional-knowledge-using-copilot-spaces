@@ -3,6 +3,8 @@
 ## Purpose
 Define the initial steps to validate and authorize work, align stakeholders, and create a lightweight plan.
 
+> **Related resources:** [Roles & Personas](octoacme-roles-and-personas.md) | [RACI Matrix](octoacme-raci-matrix.md) | [Risk Register Template](octoacme-risk-register-template.md) | [Decision Log Template](octoacme-decision-log-template.md)
+
 ## When to use
 Whenever a new project idea or feature proposal is ready to be explored.
 
@@ -35,9 +37,13 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Decision log entry created for go/no-go (see [Decision Log Template](octoacme-decision-log-template.md))
+- [ ] Initial risk register seeded (see [Risk Register Template](octoacme-risk-register-template.md))
 
 ## Decision Gate
 Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+> Record the go/no-go decision in the [Decision Log](octoacme-decision-log-template.md) and assign role responsibilities using the [RACI Matrix](octoacme-raci-matrix.md).

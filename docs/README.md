@@ -19,6 +19,15 @@ OctoAcme projects are staffed with clearly defined roles to establish ownership 
 - **Developers** – implement features to acceptance criteria, write and maintain tests, and participate actively in design and code reviews.
 - **QA** – validates quality and acceptance criteria through unit, integration, and end-to-end smoke tests.
 - **Stakeholders** – provide inputs, approvals, and business context throughout the lifecycle, from initial go/no-go decisions through milestone reviews and release announcements.
+- **Scrum Master / Agile Coach** – facilitates agile ceremonies, removes impediments, and coaches the team on process health.
+- **UX Designer / Researcher** – designs and validates user experiences; translates user insights into actionable designs.
+- **Release Manager** – plans, coordinates, and oversees all production deployments and the release calendar.
+- **Data Analyst** – defines key metrics, builds dashboards, and provides data-driven insights to support decision-making.
+- **Business Analyst** – elicits and documents requirements, maps workflows, and bridges business and technology teams.
+- **Engineering Manager / Tech Lead** – provides technical leadership, people management, and architectural guidance.
+- **Security / Compliance** – ensures security and regulatory requirements are met throughout the delivery lifecycle.
+
+See [Roles & Personas](octoacme-roles-and-personas.md) for detailed responsibilities, goals, and interaction points for each role.
 
 ## Communication & Risk Management
 
@@ -48,3 +57,7 @@ Quality is enforced throughout the development lifecycle. All pull requests are 
 | [Release & Deployment Guide](octoacme-release-and-deployment.md) | Pre-release checklist, deployment pipeline, rollback, and release notes |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Running retros, tracking action items, and building a culture of improvement |
 | [Roles & Personas](octoacme-roles-and-personas.md) | Detailed responsibilities and communication norms for each project role |
+| [RACI Matrix](octoacme-raci-matrix.md) | Role-to-activity responsibility mapping across all lifecycle stages |
+| [Definition of Ready / Done](octoacme-definition-of-ready-done.md) | Shared criteria for backlog readiness and completion |
+| [Risk Register Template](octoacme-risk-register-template.md) | Template and guidance for tracking, scoring, and escalating risks |
+| [Decision Log Template](octoacme-decision-log-template.md) | Template for recording significant project decisions and their rationale |
