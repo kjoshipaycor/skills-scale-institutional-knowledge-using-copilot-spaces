@@ -3,6 +3,8 @@
 ## Purpose
 Explain how to identify, manage, and communicate risks and dependencies.
 
+> **Related resources:** [Risk Register Template](octoacme-risk-register-template.md) | [Decision Log Template](octoacme-decision-log-template.md) | [RACI Matrix](octoacme-raci-matrix.md) | [Roles & Personas](octoacme-roles-and-personas.md)
+
 ## Risk Register
 Maintain a simple table with:
 - ID
@@ -12,6 +14,8 @@ Maintain a simple table with:
 - Owner
 - Mitigation plan
 - Status
+
+> Use the **[Risk Register Template](octoacme-risk-register-template.md)** for the full table format, scoring matrix, and escalation thresholds.
 
 ## Risk Lifecycle
 - Identify: during planning and ongoing execution
@@ -40,3 +44,4 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+- Record key risk decisions and escalation outcomes in the [Decision Log](octoacme-decision-log-template.md)

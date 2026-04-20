@@ -3,6 +3,8 @@
 ## Purpose
 Capture learnings and convert them into actionable improvements.
 
+> **Related resources:** [Roles & Personas](octoacme-roles-and-personas.md) | [RACI Matrix](octoacme-raci-matrix.md) | [Decision Log Template](octoacme-decision-log-template.md)
+
 ## When
 After each sprint, release, or important milestone. Also after incidents.
 
@@ -20,6 +22,7 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
 - Review outstanding actions in the weekly PM sync
+- Log process decisions that arose from retrospectives in the [Decision Log](octoacme-decision-log-template.md)
 
 ## Example Action Item Template
 - Title:

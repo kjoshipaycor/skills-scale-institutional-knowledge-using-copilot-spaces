@@ -3,6 +3,8 @@
 ## Purpose
 Guidance for managing day-to-day execution and tracking progress toward project milestones.
 
+> **Related resources:** [Roles & Personas](octoacme-roles-and-personas.md) | [RACI Matrix](octoacme-raci-matrix.md) | [Definition of Ready / Done](octoacme-definition-of-ready-done.md) | [Risk Register Template](octoacme-risk-register-template.md)
+
 ## Team Rhythm
 - Daily standups (15 min) — focus on progress, blockers, dependencies
 - Weekly delivery sync — show progress, updates, and flagged risks
@@ -37,4 +39,6 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
-- [ ] Risk register updated weekly
+- [ ] Risk register updated weekly (see [Risk Register Template](octoacme-risk-register-template.md))
+- [ ] Definition of Done applied to each item before marking complete (see [Definition of Ready / Done](octoacme-definition-of-ready-done.md))
+- [ ] Significant decisions recorded in the decision log (see [Decision Log Template](octoacme-decision-log-template.md))
