@@ -2,15 +2,33 @@
 
 ## Overview
 
-This README serves as the central entry point for OctoAcme's project management process documentation. OctoAcme follows an iterative, customer-first delivery model built on clear ownership, transparent communication, and data-informed decisions. Projects move through five well-defined stages: **Initiation** (validating the business need, aligning stakeholders, and producing a Project One-pager with SMART goals and success metrics), **Planning** (breaking work into shippable increments, prioritizing the backlog, defining the Definition of Done, and building a milestone-based release plan), **Execution** (building and testing in short sprints tracked on a shared project board), **Release** (deploying through an automated pipeline with pre-release smoke tests, rollback plans, and post-deploy verification), and **Close & Retrospective** (capturing learnings and converting them into backlog action items for continuous improvement).
+This README serves as the central entry point for OctoAcme's project management process documentation. OctoAcme follows an iterative, customer-first delivery model built on clear ownership, transparent communication, and data-informed decisions. Projects move through five well-defined stages:
+
+1. **Initiation** – validate the business need, align stakeholders, and produce a Project One-pager with SMART goals and success metrics.
+2. **Planning** – break work into shippable increments, prioritize the backlog, define the Definition of Done, and build a milestone-based release plan.
+3. **Execution** – build and test in short sprints tracked on a shared project board.
+4. **Release** – deploy through an automated pipeline with pre-release smoke tests, rollback plans, and post-deploy verification.
+5. **Close & Retrospective** – capture learnings and convert them into backlog action items for continuous improvement.
 
 ## Roles & Personas
 
-OctoAcme projects are staffed with clearly defined roles. The **Project Manager (PM)** owns delivery coordination, schedules, risk registers, and cross-team communication. The **Product Manager (PdM)** defines the problem statement, prioritizes the roadmap, and validates outcomes against success metrics. **Developers** implement features to acceptance criteria, write and maintain tests, and participate actively in design and code reviews. **QA** validates quality and acceptance criteria through unit, integration, and end-to-end smoke tests. **Stakeholders** provide inputs, approvals, and business context throughout the lifecycle—from initial go/no-go decisions at the end of Initiation through milestone reviews and release announcements.
+OctoAcme projects are staffed with clearly defined roles to establish ownership and accountability at every stage:
+
+- **Project Manager (PM)** – owns delivery coordination, schedules, risk registers, and cross-team communication.
+- **Product Manager (PdM)** – defines the problem statement, prioritizes the roadmap, and validates outcomes against success metrics.
+- **Developers** – implement features to acceptance criteria, write and maintain tests, and participate actively in design and code reviews.
+- **QA** – validates quality and acceptance criteria through unit, integration, and end-to-end smoke tests.
+- **Stakeholders** – provide inputs, approvals, and business context throughout the lifecycle, from initial go/no-go decisions through milestone reviews and release announcements.
 
 ## Communication & Risk Management
 
-OctoAcme maintains a structured communication cadence to keep all parties aligned. The delivery team holds **daily standups** (15 minutes) focused on progress and blockers, while the PM and PdM meet in a **weekly sync** to review progress, surface risks, and update the risk register. **Monthly stakeholder updates** report on milestones, metrics, and upcoming decisions. Risks are tracked in a Risk Register (ID, impact, likelihood, owner, mitigation) and reviewed every week; blockers escalate from team-level triage → PM → Product Lead → Sponsor, with a dedicated security incident runbook for security-related issues. All project status is maintained in a single source of truth—the project README or release doc—so every stakeholder has consistent, up-to-date information.
+OctoAcme maintains a structured communication cadence to keep all parties aligned:
+
+- **Daily standups** (15 minutes) – focused on progress and blockers.
+- **Weekly PM + PdM sync** – reviews progress, surfaces risks, and updates the risk register.
+- **Monthly stakeholder updates** – reports on milestones, metrics, and upcoming decisions.
+
+Risks are tracked in a Risk Register (ID, impact, likelihood, owner, mitigation) and reviewed every week. Blockers escalate from team-level triage → PM → Product Lead → Sponsor, with a dedicated security incident runbook for security-related issues. All project status is maintained in a single source of truth—the project README or release doc—so every stakeholder has consistent, up-to-date information.
 
 ## Quality Assurance & Release Practices
 
